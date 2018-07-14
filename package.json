@@ -1,0 +1,14 @@
+{
+  "name": " babel-halting-plugin",
+  "version": "0.0.1",
+  "description": "Prevents infinite loops and recursive function calls by adding global counter to each block statement",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "author": "Alexei Myshkouski",
+  "license": "MIT",
+  "dependencies": {
+    "babel-core": "^6.26.3"
+  }
+}
