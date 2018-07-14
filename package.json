@@ -7,6 +7,10 @@
     "test": "node test"
   },
   "author": "Alexei Myshkouski",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Myshkouski/babel-halting-plugin.git"
+  },
   "license": "MIT",
   "dependencies": {
     "babel-core": "^6.26.3"
