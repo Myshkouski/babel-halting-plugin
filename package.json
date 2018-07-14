@@ -1,5 +1,5 @@
 {
-  "name": " babel-halting-plugin",
+  "name": "babel-halting-plugin",
   "version": "0.0.1",
   "description": "Prevents infinite loops and recursive function calls by adding global counter to each block statement",
   "main": "index.js",
